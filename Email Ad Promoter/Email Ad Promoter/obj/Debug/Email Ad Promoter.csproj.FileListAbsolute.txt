@@ -1,0 +1,6 @@
+C:\Users\howto\source\repos\Email Ad Promoter\Email Ad Promoter\bin\Debug\Email Ad Promoter.exe.config
+C:\Users\howto\source\repos\Email Ad Promoter\Email Ad Promoter\bin\Debug\Email Ad Promoter.exe
+C:\Users\howto\source\repos\Email Ad Promoter\Email Ad Promoter\bin\Debug\Email Ad Promoter.pdb
+C:\Users\howto\source\repos\Email Ad Promoter\Email Ad Promoter\obj\Debug\Email Ad Promoter.csprojAssemblyReference.cache
+C:\Users\howto\source\repos\Email Ad Promoter\Email Ad Promoter\obj\Debug\Email Ad Promoter.exe
+C:\Users\howto\source\repos\Email Ad Promoter\Email Ad Promoter\obj\Debug\Email Ad Promoter.pdb
